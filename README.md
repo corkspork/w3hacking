@@ -1,4 +1,8 @@
-# web3-hacking
+# Web3 Hacking
+
+<p align="center" width="100%" >
+  <img width="33%" src="logo.png" />
+</p>
 
 This project contains some contracts, scripts and tests related to web3 hacking.
 Using Python and the [brownie](https://github.com/eth-brownie/brownie) framework to interact with EVM networks and contracts.
